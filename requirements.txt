@@ -8,4 +8,3 @@ requests
 python-dotenv
 reportlab
 groq  
-python==3.10
