@@ -9,3 +9,4 @@ python-dotenv
 reportlab
 groq  
 langchain-community
+pypdf
