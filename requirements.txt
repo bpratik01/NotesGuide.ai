@@ -10,3 +10,4 @@ reportlab
 groq  
 langchain-community
 pypdf
+tiktoken
