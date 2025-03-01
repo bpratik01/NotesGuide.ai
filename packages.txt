@@ -1,2 +1,3 @@
 swig
 libfreetype6-dev
+libjpeg-dev
