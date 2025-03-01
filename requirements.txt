@@ -1,7 +1,7 @@
 streamlit
 openai
 langchain
-faiss-cpu
+faiss
 beautifulsoup4
 PyPDF2
 requests
